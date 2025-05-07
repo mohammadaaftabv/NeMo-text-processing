@@ -12,6 +12,8 @@
 4D	four d
 4G	four g
 4K	four k
+wpp	w p p
+generative	genera ai
 4K 64K	four k six four k
 5D	five d
 5G	five g
@@ -20,6 +22,16 @@
 7G	seven g
 8K	eight k
 A100	a one hundred
+A100	aone hundred
+A100	a100
+H100	hone hundred
+H100	h100
+intelligence	telligence
+computex	comput tex
+taiwan	taiw
+hopper	hopperer
+run	runn
+fix	fixx
 AAA	triple a
 AC	a c
 ACE	a c e
@@ -77,7 +89,6 @@ Billion-X	billion X
 BIOS	Bios
 BIOS	bios
 BIS	b i s
-BlueField-3	bluefield three
 BlueField-3s	bluefield three s
 BlueField-3 NIC	bluefield three nick
 BMW	bmw
@@ -123,6 +134,7 @@ CFO	c f o
 CFO	cfo
 CG	cg
 CG	c g
+incredibly	redibly
 CHAdeMO	cha demo
 CHAdeMO	chai demo
 ChatGPT	chat g p t
@@ -301,6 +313,7 @@ GH200	gh two hundred
 GH200	g h two hundred
 GPT	gpt
 GPT	g p t
+GPT	gpd
 GPT-3	gpt three
 GPT-3	gpd three
 GPT-3	gbt three
@@ -498,14 +511,24 @@ OLTC	oltc
 OLTP	o l t p
 OLTP	oltp
 Omniverse	omnibus
+Omniverse	omnis
+Omniverse	vse
+Omniverse	envers
+don't	don'tt
+Jensen Huang	she huag
 Omniverse	omnivores
 Omniverse	omniverse
+Omniverse	nrse
 on TikTok	on tick tock
 ONNX	o n n x
+physics	physicsy
+optimize	optimiz
 OpenAI	openai
 OpenCL	open c l
 OpenGL	open g l
 OpenUSD	open usd
+OpenUSD	open us d
+OpenUSD	open d
 OPenUSD	open u s d
 OpenXR	open xr
 OpEx	op ex
@@ -513,7 +536,10 @@ OpEx	opex
 OVX	o v x
 OVX	ovx
 PageRank	pagerank
+backend	back end
+includes	includess
 PC	pc
+accelerated	celer
 PCB	pcb
 PCB	p c b
 PCB's	pcb's
@@ -567,9 +593,8 @@ RL	r l
 RNN	r n n
 ROI	r o i
 RSS	r s s
-RT	r t
+RTX	r t
 RTP	r t p
-RTX	r t x	-1.1
 RTX ON	r t x on
 RTX	r t x
 RTX 4050 Ti	r t x forty fifty t i
@@ -619,8 +644,6 @@ SNS	s n s
 SoftBank	softbank
 SOL	s o l
 SPDT	s p d t
-Spectrum-4	spectrum four
-Spectrum-X	spectrum x
 SPN	s p n
 SPST	s p s t
 SQL	s q l
@@ -742,8 +765,94 @@ x2	x two
 x8	x eight
 HBM3E	Hbm Three E
 Zen 4	zen four
-VMD	vmd
-UCF	ucf
-NVL32	nvl thirty two
 RAG	rag
-NIM	nim
+3D	threed
+augment	agment
+ai	aii
+at siggraph	as graf
+ChatGPT	chat gptt
+Copilot	co pilot
+inference	in ference
+mesoscale	meso scale
+RTX	r tx
+SDXL	sdl
+search	sech
+SideFX	side fxx
+USD	ud
+wsl2	sl two
+GPU	youu
+MLOps	ml ops
+GPT	gpd
+openusd	open d
+dataset	data set
+ray-traced	ray traced
+ShadowPlay	shadow play
+Nvidia	vidia
+RTX	tx
+GeForce RTX 40	g4x40
+RTX	r ts
+RTX	at t x
+RTX	art x
+RTX	rt x
+RTX	a x
+RTX	r p
+RTX	r p x
+RTX	r px
+RTX	rp x
+RTX	tx
+RTX	achs
+RTX	arttic
+760M	760m
+GeForce	g force
+GeForce	g e force
+Micro-Mesh	micro mesh
+DXR	dxr
+DXR	d x r
+DXR	dx r
+CUDA	huda
+CUDA	hodda
+CUDA	coda
+RAN	ran
+5G	i d
+5G	i g
+cuBB	see you b b
+cuBB	cubb
+cuBB	c u b b
+DGX	b g x
+DGX	b d x
+NIM	lim
+NIMs	nms
+NIMs	mims
+NIMs	nims
+NVIDIA NIMs	nvidia nymphs
+NVIDIA NIMs	nvidia names
+NVIDIA NIMs	nvidia ns
+GFN	d f n
+GFN	f n
+GPU	gpo
+GPU	gp
+GPU	g p
+A10	a ten
+A10	eiton
+A10 GPU	a 10gp
+A40	a 40
+A40	f or t
+A40	a four t
+A40	a fourteen
+A40	a 14
+A40	a forty
+A40	a fourty
+ACE agent	a agent
+ACE agent	yes agent
+ACE agent	rtx agent
+ACE agent	as agent
+LLM	l m
+Lovelace	loveless
+Lovelace	lawless
+Lovelace	loveis
+AMPERE	ambia
+Ada Lovelace	ada loves
+Ada Lovelace	ada las
+CUDA	kuda
+CEO	c o
+CEO	co
